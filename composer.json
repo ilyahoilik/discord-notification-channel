@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/discord",
+    "name": "ilyahoilik/discord-notification-channel",
     "description": "Laravel notification driver for Discord.",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "channel",
         "discord"
     ],
-    "homepage": "https://github.com/laravel-notification-channels/discord",
+    "homepage": "https://github.com/ilyahoilik/discord-notification-channel",
     "license": "MIT",
     "authors": [
         {
